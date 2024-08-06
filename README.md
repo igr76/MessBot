@@ -27,4 +27,3 @@
 
 - <a  href="https://github.com/igr76">Грицук Игорь</a>
 
-
