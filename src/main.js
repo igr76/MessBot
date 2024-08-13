@@ -208,8 +208,8 @@ class MyTelegramBot extends HtmlTelegramBot {
    }
 
 }
-const  chatgpt = new ChatGptService("60Et7Jza9bA4ePGiBCDOJFkblB3TLxR3EqTzYJuFUFITcRHp");
-const bot = new MyTelegramBot("7399956767:AAHVAfzBjCCXwXK5e-6uT_l5_v4JoRpSWSE");
+const  chatgpt = new ChatGptService("здесь номер ИИ");
+const bot = new MyTelegramBot("здесь номер Бота");
 bot.onCommand(/\/start/,bot.srart)
 bot.onCommand(/\/html/,bot.html)
 bot.onCommand(/\/gpt/,bot.gpt)
